@@ -1,2 +1,2 @@
-athene2-sekeleton-module
+athene2-skeleton-module
 ========================
